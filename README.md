@@ -16,7 +16,7 @@ Users can:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/blockchain-simulator.git
+git clone https://github.com/Sri-Harsha-ka/blockchain-simulator.git
 cd blockchain-simulator
 ```
 
